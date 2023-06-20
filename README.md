@@ -1,8 +1,8 @@
-🎋 Salve fml! Meu nome é Gustavo Alliaga dos Santos, Sou fanatico por games e programação, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE!
+🎋 Salve fml! Meu nome é Gustavo Alliaga, Sempre soube que queria seguir minha vida na programação, e atualmente estou cursando Análise e Desenvolvimento de Sistemas, aqui vou postar alguns projetos pessoais e da faculdade, espero que seja util para outras pessoas e que eu aprenda mais no processo!
 
-- 🎋 Grande parte do que aprendi foi na luta e na vontade de aprender. 
-- 🎋 Minha meta é me tornar um programador FullStack!
-- 🎋 Atualmente estou estudando linguagens Back-End como Python e JS, e aperfeiçõando meu Front-End.
+- 🤯 Grande parte do que aprendi foi na curiosidade de entender como funciona e como fazer. 
+- 💻 Meus projetos estaram focados grande parte em Front-end pois é o onde tenho mais dominio.
+- 🔗 Atualmente estou estudando PhP e Js para aprimorar minhas habilidades em paginas web.
 
 <!---
 Gs1001/Gs1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
