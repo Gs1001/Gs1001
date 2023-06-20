@@ -2,7 +2,7 @@
 
 - 🤯 Grande parte do que aprendi foi na curiosidade de entender como funciona e como fazer. 
 - 💻 Meus projetos estaram focados grande parte em Front-end pois é o onde tenho mais dominio.
-- 🔗 Atualmente estou estudando PhP e Js para aprimorar minhas habilidades em paginas web.
+- 🔗 Atualmente estou estudando PhP e Js para aprimorar meus projetos.
 
 <!---
 Gs1001/Gs1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
